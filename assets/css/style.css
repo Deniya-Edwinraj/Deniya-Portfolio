@@ -421,7 +421,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/istockphoto-1467525236-170667a.jpg") top right;
+  background: url("../img/top-view-desk-with-keyboard-bouquet-roses_23-2148415019.jpg") top right;
   /* "../img/hero-bg.jpg" */
   background-size: cover;
 }
@@ -594,6 +594,7 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
@@ -1019,7 +1020,7 @@ section {
   flex-direction: column;
   justify-content: flex-end;
   align-items: flex-start;
-  padding: 20px;
+  padding:  20px;
 }
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
@@ -1070,7 +1071,7 @@ section {
 # Portfolio Details
 --------------------------------------------------------------*/
 .portfolio-details {
-  padding-top: 0;
+  padding: 0;
 }
 
 .portfolio-details .portfolio-details-slider img {
